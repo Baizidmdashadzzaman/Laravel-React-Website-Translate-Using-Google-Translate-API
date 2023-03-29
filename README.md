@@ -1,4 +1,4 @@
-# Laravel React ReactQuill Texteditor With Image Upload 
+# Laravel-React-Website-Translate-Using-Google-Translate-API
 
 ![Image](1.PNG?raw=true "Image")
 
@@ -15,10 +15,10 @@ Video link: https://youtu.be/re3NzazUrng
 
 You can simply run the project by following process
 ```shell
-$ git clone https://github.com/Baizidmdashadzzaman/Laravel-React-ReactQuill-Texteditor-With-Image-Upload
+$ git clone https://github.com/Baizidmdashadzzaman/Laravel-React-Website-Translate-Using-Google-Translate-API
 ```
 ```shell
-$ cd Laravel-React-ReactQuill-Texteditor-With-Image-Upload
+$ cd Laravel-React-Website-Translate-Using-Google-Translate-API
 ```
 ```shell
 $ composer install
